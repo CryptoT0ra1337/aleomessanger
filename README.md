@@ -1,3 +1,5 @@
+torah9380
+
 # Lottery DApp
 
 Welcome to the Lottery DApp, a simple decentralized application (DApp) built on the Aleo blockchain platform. This README.md will provide you with an overview of the project and a brief journey of what I've learned while working on it as a newbie developer.
